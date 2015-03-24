@@ -1,0 +1,33 @@
+{
+  "name": "layout",
+  "description": "Layout Component for vertical item flow.",
+  "dependencies": {
+    "component/emitter": "*",
+    "component/bind": "*",
+    "component/translate": "*",
+    "component/clone": "*",
+    "component/object": "*",
+    "component/transform-property": "*",
+    "component/has-translate3d": "*",
+    "desandro/get-size": "*",
+    "component/inherit": "*",
+    "component/classes": "*",
+    "component/domify": "*",
+    "component/block": "*",
+    "component/event": "*",
+    "wilsonpage/fastdom": "*"
+  },
+  "development": {},
+  "main": "/lib/index.js",
+  "scripts": [
+    "/lib/index.js",
+    "/lib/adapter.js",
+    "/lib/entryfactory.js",
+    "/lib/model.js",
+    "/lib/updown-stash.js",
+    "/lib/utils.js"
+  ],
+  "styles": [
+    "/lib/style.css"
+  ]
+}
