@@ -3,6 +3,8 @@
 
   Layout is Component(1) with which you can manage vertical layout item flow.
 
+  TODO: make usable with npm
+
 # API
 
 ## new Layout(options)
